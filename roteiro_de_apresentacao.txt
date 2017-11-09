@@ -1,0 +1,71 @@
+ 
+
+pg 5
+
+VETORIAL:
+imagem night driver (imagem)
+pg Asteroids (imagem) 
+
+MATRICIAL:
+Street Fighter II (imagem) (figura 16)
+Virtua Fighter (imagem)(figura 18)
+
+
+
+MATRICIAL:
+
+
+Realtar diferença entre game matricial e vetorial
+
+	
+
+
+
+
+
+__________________________
+pg 8
+
+Modelagem 3D
+
+
+__________________________________________________________________________________
+
+
+2. Etapas para a construção de um jogo 3D
+Para construir um jogo, seja ele 3D ou 2D normalmente se segue os seguintes passos:
+
+1.	Confecção do Design Bible ;
+2.	Produção de áudios e imagens em 2D;
+3.	Modelagem 3D
+4.	Desenvolvimento de artefatos computacionais(Engine).
+5.	Interação dos aspectos computacionais e artísticos;
+_____________________________________________________________________________________
+
+Pg 10
+
+Engine de Física
+<strong>DirectX</strong>
+Entretanto o ODF executa somente a plataforma Windows, pois utiliza o DirectX.
+_______________________________________________________________________________________
+Pg 11
+Engine de Inteligência Artificial
+openAi (citar ferramenta)
+_______________________________________________________________________________________
+Figura 59 do artigo
+
+_______________________________________________________________________________________
+
+Técnicas para Engine de inteligencia artificial
+
+Figura 61 (imagem) 
+_______________________________________________________________________________________
+
+UNREAL ENGINE
+
+tela inicial	
+https://docs.unrealengine.com/latest/images/Engine/UI/LevelEditor/Editor_Topic.jpg
+
+
+
+
