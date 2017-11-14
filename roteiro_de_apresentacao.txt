@@ -1,5 +1,14 @@
- 
+IntroduÃ§Ã£o
 
+____________________
+
+historia retro
+
+____________________
+
+Historia 2d -> 3d
+
+______________________
 pg 5
 
 VETORIAL:
@@ -10,61 +19,54 @@ MATRICIAL:
 Street Fighter II (imagem) (figura 16)
 Virtua Fighter (imagem)(figura 18)
 
-
-
 MATRICIAL:
-
-
-Realtar diferença entre game matricial e vetorial
-
-	
-
-
-
-
+Realtar diferenÃ§a entre game matricial e vetorial
 
 __________________________
-pg 8
 
-Modelagem 3D
-
-
-__________________________________________________________________________________
-
-
-2. Etapas para a construção de um jogo 3D
+2. Etapas para a construÃ§Ã£o de um jogo 3D
 Para construir um jogo, seja ele 3D ou 2D normalmente se segue os seguintes passos:
 
-1.	Confecção do Design Bible ;
-2.	Produção de áudios e imagens em 2D;
+1.	ConfecÃ§Ã£o do Design Bible ;
+2.	ProduÃ§Ã£o de Ã¡udios e imagens em 2D;
 3.	Modelagem 3D
 4.	Desenvolvimento de artefatos computacionais(Engine).
-5.	Interação dos aspectos computacionais e artísticos;
+5.	InteraÃ§Ã£o dos aspectos computacionais e artÃ­sticos;
+_________________________
+
+"Usaremos como exemplo o Unreal Engine"
+
+UNREAL ENGINE
+
+tela inicial	
+https://docs.unrealengine.com/latest/images/Engine/UI/LevelEditor/Editor_Topic.jpg
+
+__________________________________________________________________________________
+ pg 8 
+ 
+ Modelagem 3d
+
 _____________________________________________________________________________________
 
 Pg 10
 
-Engine de Física
+Engine de FÃ­sica
 <strong>DirectX</strong>
 Entretanto o ODF executa somente a plataforma Windows, pois utiliza o DirectX.
 _______________________________________________________________________________________
 Pg 11
-Engine de Inteligência Artificial
+Engine de InteligÃªncia Artificial
 openAi (citar ferramenta)
 _______________________________________________________________________________________
 Figura 59 do artigo
 
 _______________________________________________________________________________________
 
-Técnicas para Engine de inteligencia artificial
+TÃ©cnicas para Engine de inteligencia artificial
 
 Figura 61 (imagem) 
 _______________________________________________________________________________________
 
-UNREAL ENGINE
-
-tela inicial	
-https://docs.unrealengine.com/latest/images/Engine/UI/LevelEditor/Editor_Topic.jpg
 
 
 
