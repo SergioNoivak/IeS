@@ -6,6 +6,15 @@ historia retro
 
 ____________________
 
+
+Crash de 1984 : Crise que afetou todo o ocidente
+	No ano de 1984, a Atari se envolveu em uma crise que afeta todo o mercado de jogos, os principais motivos são:
+•	Defasagem tecnológica : Os arcades estavam bem mais avançados que os consoles.
+•	Crise de conteúdo : Várias softhouses não produziam jogos de qualidade.
+•	Início da informática doméstica : Foi lançado neste mesmo ano um computador que custava menos que 300 dólares.
+	Enquanto isso, no oriente a concorrência entre SEGA e Nintendo que se estabeleceu no ocidente estava acirrada.
+
+________
 Historia 2d -> 3d
 
 ______________________
@@ -31,7 +40,6 @@ Para construir um jogo, seja ele 3D ou 2D normalmente se segue os seguintes pass
 2.	Produção de áudios e imagens em 2D;
 3.	Modelagem 3D
 4.	Desenvolvimento de artefatos computacionais(Engine).
-5.	Interação dos aspectos computacionais e artísticos;
 _________________________
 
 "Usaremos como exemplo o Unreal Engine"
@@ -45,7 +53,7 @@ ________________________________________________________________________________
  pg 8 
  
  Modelagem 3d
-
+Figura 59 do artigo(engine renderização)
 _____________________________________________________________________________________
 
 Pg 10
@@ -57,15 +65,23 @@ ________________________________________________________________________________
 Pg 11
 Engine de Inteligência Artificial
 openAi (citar ferramenta)
-_______________________________________________________________________________________
-Figura 59 do artigo
-
-_______________________________________________________________________________________
+_____________________________________________________________________________________
 
 Técnicas para Engine de inteligencia artificial
 
 Figura 61 (imagem) 
 _______________________________________________________________________________________
+PERGUNTAS
+1) O QUE É UM JOGO?
+2-) COMO SE JOGAVA O JOGO TENIS PARA DOIS?(1958, Russel)
+3-) O QUE É IMERSÃO NO JOGO?
+4-) O QUE É O ENGINE SDK?
+5-) O QUE FOI O Crash de 1984?
+
+
+
+
+
 
 
 
